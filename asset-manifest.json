@@ -1,13 +1,13 @@
 {
   "main.css": "/curr-converter/static/css/main.32fbfb5e.chunk.css",
-  "main.js": "/curr-converter/static/js/main.21f2ac49.chunk.js",
-  "main.js.map": "/curr-converter/static/js/main.21f2ac49.chunk.js.map",
+  "main.js": "/curr-converter/static/js/main.1102c13a.chunk.js",
+  "main.js.map": "/curr-converter/static/js/main.1102c13a.chunk.js.map",
   "static/js/1.482587be.chunk.js": "/curr-converter/static/js/1.482587be.chunk.js",
   "static/js/1.482587be.chunk.js.map": "/curr-converter/static/js/1.482587be.chunk.js.map",
   "runtime~main.js": "/curr-converter/static/js/runtime~main.a001c0b7.js",
   "runtime~main.js.map": "/curr-converter/static/js/runtime~main.a001c0b7.js.map",
   "static/css/main.32fbfb5e.chunk.css.map": "/curr-converter/static/css/main.32fbfb5e.chunk.css.map",
   "index.html": "/curr-converter/index.html",
-  "precache-manifest.572654e10ccbe31455ca8117a9cb6b03.js": "/curr-converter/precache-manifest.572654e10ccbe31455ca8117a9cb6b03.js",
+  "precache-manifest.a2949ea3e8bde0a98931cc01555acf2d.js": "/curr-converter/precache-manifest.a2949ea3e8bde0a98931cc01555acf2d.js",
   "service-worker.js": "/curr-converter/service-worker.js"
 }
