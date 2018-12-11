@@ -4,7 +4,7 @@ class CurrService {
 
     constructor(){
 
-        this.url = `http://free.currencyconverterapi.com/api/v6`;
+        this.url = `https://free.currencyconverterapi.com/api/v6`;
     }
 
     parserConversionData(data) {
