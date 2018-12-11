@@ -96,7 +96,7 @@ class App extends Component {
             </FlexGridItem>
             <FlexGridItem direction={ 'column' }>
               <ExchangeLabel>Value:</ExchangeLabel>
-              <ExchangeInput min={ 1 } type={ 'number' } value={ this.state.value } onChange={e => this.setState({value: e.target.value})}/>
+              <ExchangeInput min={ 1 } type={ 'tel' } value={ this.state.value } onChange={e => this.setState({value: e.target.value})}/>
             </FlexGridItem>
           </FlexGrid>
           <FlexGrid>

@@ -50,6 +50,7 @@ export const ExchangeInput = styled.input`
 	padding: 0 15px;
 	border-radius: 3px;
 	color: #FFF;
+	box-sizing: border-box;
 	
 	&:focus {
 		outline: none;
